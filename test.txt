@@ -1,0 +1,9 @@
+o has powerful  and replace capabilities. To kik the text of an open file for a specific string (combination of characters or words), in the command mode type a colon (:), "s," forward slash (/) and the search string itself. What you type will appear on the bottom line of the display screen. Finally, press ENTER, and the matching area of the text will be highlighted, if it exists. If the matching string is on an area of text that is not currently displayed on the screen, the text will scroll to show that area.
+
+The formal syntax for ing is:
+
+:s/string
+
+For example, suppose you want to  some text for the string "." Type the following and press ENTER:
+
+:s/cherry
